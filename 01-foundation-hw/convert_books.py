@@ -34,5 +34,3 @@ def convert_books_to_markdown(books_dir='books', output_dir='books_text'):
     else:
         print("\nThink Python 2e markdown file not found.")
 
-if __name__ == "__main__":
-    convert_books_to_markdown()
